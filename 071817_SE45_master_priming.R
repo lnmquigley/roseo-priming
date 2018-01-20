@@ -7,14 +7,12 @@ SE45 <-read.csv("071817_SE45_twoweek_master.csv")
 head(SE45)
 tail(SE45)
 
-####make datums better###
+####average replicates and remove day 0###
 SE45b <- ddply(SE45, c("Day", "Concentration", "Carbon", "Treatment"), summarise, countm=mean(Count), countsd=sd(Count))
-head(SE45b)
-tail(SE45b)
-
 SE45c <- subset(SE45b, Day > 0)
 head(SE45c)
 
+####change y axis from 1e7 to 1x10^7####
 fancy_scientific <- function(l) {
   # turn in to character string in scientific notation
   l <- format(l, scientific = TRUE)
@@ -26,7 +24,7 @@ fancy_scientific <- function(l) {
   # return this as an expression
   parse(text=l)
 }
-####Plot faceted by LOM####
+####Plot faceted by LOM source and concentration with all treatments####
 SE45c <- ggplot(SE45c, aes(Day, countm, colour=Treatment, linetype=Treatment, ymin=countm-countsd, ymax=countm+countsd)) +
   geom_errorbar(width=0.1) +
   geom_line(stat="identity") +
