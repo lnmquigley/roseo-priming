@@ -1,0 +1,1217 @@
+sampleID,Carbon,Concentration,Rep,Treatment,Day
+a400aL0,Acetate,400 uM-C,A,LOM,0
+a400bL0,Acetate,400 uM-C,B,LOM,0
+a400cL0,Acetate,400 uM-C,C,LOM,0
+a400dL0,Acetate,400 uM-C,D,LOM,0
+a400eL0,Acetate,400 uM-C,E,LOM,0
+a40aL0,Acetate,40 uM-C,A,LOM,0
+a40bL0,Acetate,40 uM-C,B,LOM,0
+a40cL0,Acetate,40 uM-C,C,LOM,0
+a40dL0,Acetate,40 uM-C,D,LOM,0
+a40eL0,Acetate,40 uM-C,E,LOM,0
+a4aL0,Acetate,4 uM-C,A,LOM,0
+a4bL0,Acetate,4 uM-C,B,LOM,0
+a4cL0,Acetate,4 uM-C,C,LOM,0
+a4dL0,Acetate,4 uM-C,D,LOM,0
+a4eL0,Acetate,4 uM-C,E,LOM,0
+a1aL0,Acetate,1 uM-C,A,LOM,0
+a1bL0,Acetate,1 uM-C,B,LOM,0
+a1cL0,Acetate,1 uM-C,C,LOM,0
+a1dL0,Acetate,1 uM-C,D,LOM,0
+a1eL0,Acetate,1 uM-C,E,LOM,0
+a400aP0,Acetate,400 uM-C,A,PRI,0
+a400bP0,Acetate,400 uM-C,B,PRI,0
+a400cP0,Acetate,400 uM-C,C,PRI,0
+a400dP0,Acetate,400 uM-C,D,PRI,0
+a400eP0,Acetate,400 uM-C,E,PRI,0
+a40aP0,Acetate,40 uM-C,A,PRI,0
+a40bP0,Acetate,40 uM-C,B,PRI,0
+a40cP0,Acetate,40 uM-C,C,PRI,0
+a40dP0,Acetate,40 uM-C,D,PRI,0
+a40eP0,Acetate,40 uM-C,E,PRI,0
+a4aP0,Acetate,4 uM-C,A,PRI,0
+a4bP0,Acetate,4 uM-C,B,PRI,0
+a4cP0,Acetate,4 uM-C,C,PRI,0
+a4dP0,Acetate,4 uM-C,D,PRI,0
+a4eP0,Acetate,4 uM-C,E,PRI,0
+a1aP0,Acetate,1 uM-C,A,PRI,0
+a1bP0,Acetate,1 uM-C,B,PRI,0
+a1cP0,Acetate,1 uM-C,C,PRI,0
+a1dP0,Acetate,1 uM-C,D,PRI,0
+a1eP0,Acetate,1 uM-C,E,PRI,0
+a400aL1,Acetate,400 uM-C,A,LOM,1
+a400bL1,Acetate,400 uM-C,B,LOM,1
+a400cL1,Acetate,400 uM-C,C,LOM,1
+a400dL1,Acetate,400 uM-C,D,LOM,1
+a400eL1,Acetate,400 uM-C,E,LOM,1
+a40aL1,Acetate,40 uM-C,A,LOM,1
+a40bL1,Acetate,40 uM-C,B,LOM,1
+a40cL1,Acetate,40 uM-C,C,LOM,1
+a40dL1,Acetate,40 uM-C,D,LOM,1
+a40eL1,Acetate,40 uM-C,E,LOM,1
+a4aL1,Acetate,4 uM-C,A,LOM,1
+a4bL1,Acetate,4 uM-C,B,LOM,1
+a4cL1,Acetate,4 uM-C,C,LOM,1
+a4dL1,Acetate,4 uM-C,D,LOM,1
+a4eL1,Acetate,4 uM-C,E,LOM,1
+a1aL1,Acetate,1 uM-C,A,LOM,1
+a1bL1,Acetate,1 uM-C,B,LOM,1
+a1cL1,Acetate,1 uM-C,C,LOM,1
+a1dL1,Acetate,1 uM-C,D,LOM,1
+a1eL1,Acetate,1 uM-C,E,LOM,1
+a400aP1,Acetate,400 uM-C,A,PRI,1
+a400bP1,Acetate,400 uM-C,B,PRI,1
+a400cP1,Acetate,400 uM-C,C,PRI,1
+a400dP1,Acetate,400 uM-C,D,PRI,1
+a400eP1,Acetate,400 uM-C,E,PRI,1
+a40aP1,Acetate,40 uM-C,A,PRI,1
+a40bP1,Acetate,40 uM-C,B,PRI,1
+a40cP1,Acetate,40 uM-C,C,PRI,1
+a40eP1,Acetate,40 uM-C,E,PRI,1
+a4aP1,Acetate,4 uM-C,A,PRI,1
+a4bP1,Acetate,4 uM-C,B,PRI,1
+a4cP1,Acetate,4 uM-C,C,PRI,1
+a4dP1,Acetate,4 uM-C,D,PRI,1
+a4eP1,Acetate,4 uM-C,E,PRI,1
+a1aP1,Acetate,1 uM-C,A,PRI,1
+a1bP1,Acetate,1 uM-C,B,PRI,1
+a1cP1,Acetate,1 uM-C,C,PRI,1
+a1dP1,Acetate,1 uM-C,D,PRI,1
+a1eP1,Acetate,1 uM-C,E,PRI,1
+a400aL2,Acetate,400 uM-C,A,LOM,2
+a400bL2,Acetate,400 uM-C,B,LOM,2
+a400cL2,Acetate,400 uM-C,C,LOM,2
+a400dL2,Acetate,400 uM-C,D,LOM,2
+a400eL2,Acetate,400 uM-C,E,LOM,2
+a40aL2,Acetate,40 uM-C,A,LOM,2
+a40bL2,Acetate,40 uM-C,B,LOM,2
+a40cL2,Acetate,40 uM-C,C,LOM,2
+a40dL2,Acetate,40 uM-C,D,LOM,2
+a40eL2,Acetate,40 uM-C,E,LOM,2
+a4aL2,Acetate,4 uM-C,A,LOM,2
+a4bL2,Acetate,4 uM-C,B,LOM,2
+a4cL2,Acetate,4 uM-C,C,LOM,2
+a4dL2,Acetate,4 uM-C,D,LOM,2
+a4eL2,Acetate,4 uM-C,E,LOM,2
+a1aL2,Acetate,1 uM-C,A,LOM,2
+a1bL2,Acetate,1 uM-C,B,LOM,2
+a1cL2,Acetate,1 uM-C,C,LOM,2
+a1dL2,Acetate,1 uM-C,D,LOM,2
+a1eL2,Acetate,1 uM-C,E,LOM,2
+a400aP2,Acetate,400 uM-C,A,PRI,2
+a400bP2,Acetate,400 uM-C,B,PRI,2
+a400cP2,Acetate,400 uM-C,C,PRI,2
+a400dP2,Acetate,400 uM-C,D,PRI,2
+a400eP2,Acetate,400 uM-C,E,PRI,2
+a40aP2,Acetate,40 uM-C,A,PRI,2
+a40bP2,Acetate,40 uM-C,B,PRI,2
+a40cP2,Acetate,40 uM-C,C,PRI,2
+a40dP2,Acetate,40 uM-C,D,PRI,2
+a40eP2,Acetate,40 uM-C,E,PRI,2
+a4aP2,Acetate,4 uM-C,A,PRI,2
+a4bP2,Acetate,4 uM-C,B,PRI,2
+a4cP2,Acetate,4 uM-C,C,PRI,2
+a4dP2,Acetate,4 uM-C,D,PRI,2
+a4eP2,Acetate,4 uM-C,E,PRI,2
+a1aP2,Acetate,1 uM-C,A,PRI,2
+a1bP2,Acetate,1 uM-C,B,PRI,2
+a1cP2,Acetate,1 uM-C,C,PRI,2
+a1dP2,Acetate,1 uM-C,D,PRI,2
+a1eP2,Acetate,1 uM-C,E,PRI,2
+a400aL4,Acetate,400 uM-C,A,LOM,4
+a400bL4,Acetate,400 uM-C,B,LOM,4
+a400cL4,Acetate,400 uM-C,C,LOM,4
+a400dL4,Acetate,400 uM-C,D,LOM,4
+a400eL4,Acetate,400 uM-C,E,LOM,4
+a40aL4,Acetate,40 uM-C,A,LOM,4
+a40bL4,Acetate,40 uM-C,B,LOM,4
+a40cL4,Acetate,40 uM-C,C,LOM,4
+a40dL4,Acetate,40 uM-C,D,LOM,4
+a40eL4,Acetate,40 uM-C,E,LOM,4
+a4aL4,Acetate,4 uM-C,A,LOM,4
+a4bL4,Acetate,4 uM-C,B,LOM,4
+a4cL4,Acetate,4 uM-C,C,LOM,4
+a4dL4,Acetate,4 uM-C,D,LOM,4
+a4eL4,Acetate,4 uM-C,E,LOM,4
+a1aL4,Acetate,1 uM-C,A,LOM,4
+a1bL4,Acetate,1 uM-C,B,LOM,4
+a1cL4,Acetate,1 uM-C,C,LOM,4
+a1dL4,Acetate,1 uM-C,D,LOM,4
+a1eL4,Acetate,1 uM-C,E,LOM,4
+a400aP4,Acetate,400 uM-C,A,PRI,4
+a400bP4,Acetate,400 uM-C,B,PRI,4
+a400cP4,Acetate,400 uM-C,C,PRI,4
+a400dP4,Acetate,400 uM-C,D,PRI,4
+a400eP4,Acetate,400 uM-C,E,PRI,4
+a40bP4,Acetate,40 uM-C,B,PRI,4
+a40cP4,Acetate,40 uM-C,C,PRI,4
+a40dP4,Acetate,40 uM-C,D,PRI,4
+a40eP4,Acetate,40 uM-C,E,PRI,4
+a4aP4,Acetate,4 uM-C,A,PRI,4
+a4bP4,Acetate,4 uM-C,B,PRI,4
+a4cP4,Acetate,4 uM-C,C,PRI,4
+a4dP4,Acetate,4 uM-C,D,PRI,4
+a4eP4,Acetate,4 uM-C,E,PRI,4
+a1aP4,Acetate,1 uM-C,A,PRI,4
+a1bP4,Acetate,1 uM-C,B,PRI,4
+a1cP4,Acetate,1 uM-C,C,PRI,4
+a1dP4,Acetate,1 uM-C,D,PRI,4
+a1eP4,Acetate,1 uM-C,E,PRI,4
+a400aL7,Acetate,400 uM-C,A,LOM,7
+a400bL7,Acetate,400 uM-C,B,LOM,7
+a400cL7,Acetate,400 uM-C,C,LOM,7
+a400eL7,Acetate,400 uM-C,E,LOM,7
+a40aL7,Acetate,40 uM-C,A,LOM,7
+a40bL7,Acetate,40 uM-C,B,LOM,7
+a40cL7,Acetate,40 uM-C,C,LOM,7
+a40dL7,Acetate,40 uM-C,D,LOM,7
+a40eL7,Acetate,40 uM-C,E,LOM,7
+a4aL7,Acetate,4 uM-C,A,LOM,7
+a4bL7,Acetate,4 uM-C,B,LOM,7
+a4cL7,Acetate,4 uM-C,C,LOM,7
+a4dL7,Acetate,4 uM-C,D,LOM,7
+a4eL7,Acetate,4 uM-C,E,LOM,7
+a1aL7,Acetate,1 uM-C,A,LOM,7
+a1bL7,Acetate,1 uM-C,B,LOM,7
+a1cL7,Acetate,1 uM-C,C,LOM,7
+a1dL7,Acetate,1 uM-C,D,LOM,7
+a1eL7,Acetate,1 uM-C,E,LOM,7
+a400bP7,Acetate,400 uM-C,B,PRI,7
+a400cP7,Acetate,400 uM-C,C,PRI,7
+a400dP7,Acetate,400 uM-C,D,PRI,7
+a400eP7,Acetate,400 uM-C,E,PRI,7
+a40aP7,Acetate,40 uM-C,A,PRI,7
+a40bP7,Acetate,40 uM-C,B,PRI,7
+a40cP7,Acetate,40 uM-C,C,PRI,7
+a40dP7,Acetate,40 uM-C,D,PRI,7
+a40eP7,Acetate,40 uM-C,E,PRI,7
+a4aP7,Acetate,4 uM-C,A,PRI,7
+a4bP7,Acetate,4 uM-C,B,PRI,7
+a4cP7,Acetate,4 uM-C,C,PRI,7
+a4dP7,Acetate,4 uM-C,D,PRI,7
+a4eP7,Acetate,4 uM-C,E,PRI,7
+a1aP7,Acetate,1 uM-C,A,PRI,7
+a1bP7,Acetate,1 uM-C,B,PRI,7
+a1cP7,Acetate,1 uM-C,C,PRI,7
+a1dP7,Acetate,1 uM-C,D,PRI,7
+a1eP7,Acetate,1 uM-C,E,PRI,7
+a400aL10,Acetate,400 uM-C,A,LOM,10
+a400bL10,Acetate,400 uM-C,B,LOM,10
+a400cL10,Acetate,400 uM-C,C,LOM,10
+a400dL10,Acetate,400 uM-C,D,LOM,10
+a400eL10,Acetate,400 uM-C,E,LOM,10
+a40aL10,Acetate,40 uM-C,A,LOM,10
+a40bL10,Acetate,40 uM-C,B,LOM,10
+a40cL10,Acetate,40 uM-C,C,LOM,10
+a40dL10,Acetate,40 uM-C,D,LOM,10
+a40eL10,Acetate,40 uM-C,E,LOM,10
+a4aL10,Acetate,4 uM-C,A,LOM,10
+a4bL10,Acetate,4 uM-C,B,LOM,10
+a4cL10,Acetate,4 uM-C,C,LOM,10
+a4dL10,Acetate,4 uM-C,D,LOM,10
+a4eL10,Acetate,4 uM-C,E,LOM,10
+a1aL10,Acetate,1 uM-C,A,LOM,10
+a1bL10,Acetate,1 uM-C,B,LOM,10
+a1cL10,Acetate,1 uM-C,C,LOM,10
+a1dL10,Acetate,1 uM-C,D,LOM,10
+a1eL10,Acetate,1 uM-C,E,LOM,10
+a400aP10,Acetate,400 uM-C,A,PRI,10
+a400bP10,Acetate,400 uM-C,B,PRI,10
+a400cP10,Acetate,400 uM-C,C,PRI,10
+a400dP10,Acetate,400 uM-C,D,PRI,10
+a400eP10,Acetate,400 uM-C,E,PRI,10
+a40aP10,Acetate,40 uM-C,A,PRI,10
+a40bP10,Acetate,40 uM-C,B,PRI,10
+a40cP10,Acetate,40 uM-C,C,PRI,10
+a40dP10,Acetate,40 uM-C,D,PRI,10
+a40eP10,Acetate,40 uM-C,E,PRI,10
+a4aP10,Acetate,4 uM-C,A,PRI,10
+a4bP10,Acetate,4 uM-C,B,PRI,10
+a4cP10,Acetate,4 uM-C,C,PRI,10
+a4dP10,Acetate,4 uM-C,D,PRI,10
+a4eP10,Acetate,4 uM-C,E,PRI,10
+a1aP10,Acetate,1 uM-C,A,PRI,10
+a1bP10,Acetate,1 uM-C,B,PRI,10
+a1cP10,Acetate,1 uM-C,C,PRI,10
+a1dP10,Acetate,1 uM-C,D,PRI,10
+a1eP10,Acetate,1 uM-C,E,PRI,10
+a400aL14,Acetate,400 uM-C,A,LOM,14
+a400cL14,Acetate,400 uM-C,C,LOM,14
+a400dL14,Acetate,400 uM-C,D,LOM,14
+a400eL14,Acetate,400 uM-C,E,LOM,14
+a40aL14,Acetate,40 uM-C,A,LOM,14
+a40bL14,Acetate,40 uM-C,B,LOM,14
+a40cL14,Acetate,40 uM-C,C,LOM,14
+a40dL14,Acetate,40 uM-C,D,LOM,14
+a40eL14,Acetate,40 uM-C,E,LOM,14
+a4aL14,Acetate,4 uM-C,A,LOM,14
+a4bL14,Acetate,4 uM-C,B,LOM,14
+a4cL14,Acetate,4 uM-C,C,LOM,14
+a4dL14,Acetate,4 uM-C,D,LOM,14
+a4eL14,Acetate,4 uM-C,E,LOM,14
+a1aL14,Acetate,1 uM-C,A,LOM,14
+a1bL14,Acetate,1 uM-C,B,LOM,14
+a1cL14,Acetate,1 uM-C,C,LOM,14
+a1dL14,Acetate,1 uM-C,D,LOM,14
+a1eL14,Acetate,1 uM-C,E,LOM,14
+a400aP14,Acetate,400 uM-C,A,PRI,14
+a400bP14,Acetate,400 uM-C,B,PRI,14
+a400cP14,Acetate,400 uM-C,C,PRI,14
+a400dP14,Acetate,400 uM-C,D,PRI,14
+a400eP14,Acetate,400 uM-C,E,PRI,14
+a40aP14,Acetate,40 uM-C,A,PRI,14
+a40bP14,Acetate,40 uM-C,B,PRI,14
+a40cP14,Acetate,40 uM-C,C,PRI,14
+a40dP14,Acetate,40 uM-C,D,PRI,14
+a40eP14,Acetate,40 uM-C,E,PRI,14
+a4aP14,Acetate,4 uM-C,A,PRI,14
+a4bP14,Acetate,4 uM-C,B,PRI,14
+a4cP14,Acetate,4 uM-C,C,PRI,14
+a4dP14,Acetate,4 uM-C,D,PRI,14
+a4eP14,Acetate,4 uM-C,E,PRI,14
+a1aP14,Acetate,1 uM-C,A,PRI,14
+a1bP14,Acetate,1 uM-C,B,PRI,14
+a1cP14,Acetate,1 uM-C,C,PRI,14
+a1dP14,Acetate,1 uM-C,D,PRI,14
+a1eP14,Acetate,1 uM-C,E,PRI,14
+ca400aL0,Casamino,400 uM-C,A,LOM,0
+ca400bL0,Casamino,400 uM-C,B,LOM,0
+ca400cL0,Casamino,400 uM-C,C,LOM,0
+ca400dL0,Casamino,400 uM-C,D,LOM,0
+ca400eL0,Casamino,400 uM-C,E,LOM,0
+ca40aL0,Casamino,40 uM-C,A,LOM,0
+ca40bL0,Casamino,40 uM-C,B,LOM,0
+ca40cL0,Casamino,40 uM-C,C,LOM,0
+ca40dL0,Casamino,40 uM-C,D,LOM,0
+ca40eL0,Casamino,40 uM-C,E,LOM,0
+ca4aL0,Casamino,4 uM-C,A,LOM,0
+ca4bL0,Casamino,4 uM-C,B,LOM,0
+ca4cL0,Casamino,4 uM-C,C,LOM,0
+ca4dL0,Casamino,4 uM-C,D,LOM,0
+ca1aL0,Casamino,1 uM-C,A,LOM,0
+ca1bL0,Casamino,1 uM-C,B,LOM,0
+ca1cL0,Casamino,1 uM-C,C,LOM,0
+ca1dL0,Casamino,1 uM-C,D,LOM,0
+ca1eL0,Casamino,1 uM-C,E,LOM,0
+ca400aP0,Casamino,400 uM-C,A,PRI,0
+ca400bP0,Casamino,400 uM-C,B,PRI,0
+ca400cP0,Casamino,400 uM-C,C,PRI,0
+ca400dP0,Casamino,400 uM-C,D,PRI,0
+ca400eP0,Casamino,400 uM-C,E,PRI,0
+ca40aP0,Casamino,40 uM-C,A,PRI,0
+ca40bP0,Casamino,40 uM-C,B,PRI,0
+ca40cP0,Casamino,40 uM-C,C,PRI,0
+ca40dP0,Casamino,40 uM-C,D,PRI,0
+ca40eP0,Casamino,40 uM-C,E,PRI,0
+ca4aP0,Casamino,4 uM-C,A,PRI,0
+ca4bP0,Casamino,4 uM-C,B,PRI,0
+ca4cP0,Casamino,4 uM-C,C,PRI,0
+ca4dP0,Casamino,4 uM-C,D,PRI,0
+ca4eP0,Casamino,4 uM-C,E,PRI,0
+ca1aP0,Casamino,1 uM-C,A,PRI,0
+ca1bP0,Casamino,1 uM-C,B,PRI,0
+ca1cP0,Casamino,1 uM-C,C,PRI,0
+ca1dP0,Casamino,1 uM-C,D,PRI,0
+ca1eP0,Casamino,1 uM-C,E,PRI,0
+ca400aL1,Casamino,400 uM-C,A,LOM,1
+ca400bL1,Casamino,400 uM-C,B,LOM,1
+ca400cL1,Casamino,400 uM-C,C,LOM,1
+ca400dL1,Casamino,400 uM-C,D,LOM,1
+ca400eL1,Casamino,400 uM-C,E,LOM,1
+ca40aL1,Casamino,40 uM-C,A,LOM,1
+ca40bL1,Casamino,40 uM-C,B,LOM,1
+ca40cL1,Casamino,40 uM-C,C,LOM,1
+ca40dL1,Casamino,40 uM-C,D,LOM,1
+ca40eL1,Casamino,40 uM-C,E,LOM,1
+ca4aL1,Casamino,4 uM-C,A,LOM,1
+ca4bL1,Casamino,4 uM-C,B,LOM,1
+ca4cL1,Casamino,4 uM-C,C,LOM,1
+ca4dL1,Casamino,4 uM-C,D,LOM,1
+ca4eL1,Casamino,4 uM-C,E,LOM,1
+ca1aL1,Casamino,1 uM-C,A,LOM,1
+ca1bL1,Casamino,1 uM-C,B,LOM,1
+ca1cL1,Casamino,1 uM-C,C,LOM,1
+ca1dL1,Casamino,1 uM-C,D,LOM,1
+ca1eL1,Casamino,1 uM-C,E,LOM,1
+ca400aP1,Casamino,400 uM-C,A,PRI,1
+ca400bP1,Casamino,400 uM-C,B,PRI,1
+ca400cP1,Casamino,400 uM-C,C,PRI,1
+ca400dP1,Casamino,400 uM-C,D,PRI,1
+ca400eP1,Casamino,400 uM-C,E,PRI,1
+ca40aP1,Casamino,40 uM-C,A,PRI,1
+ca40bP1,Casamino,40 uM-C,B,PRI,1
+ca40cP1,Casamino,40 uM-C,C,PRI,1
+ca40dP1,Casamino,40 uM-C,D,PRI,1
+ca40eP1,Casamino,40 uM-C,E,PRI,1
+ca4aP1,Casamino,4 uM-C,A,PRI,1
+ca4bP1,Casamino,4 uM-C,B,PRI,1
+ca4cP1,Casamino,4 uM-C,C,PRI,1
+ca4dP1,Casamino,4 uM-C,D,PRI,1
+ca4eP1,Casamino,4 uM-C,E,PRI,1
+ca1aP1,Casamino,1 uM-C,A,PRI,1
+ca1bP1,Casamino,1 uM-C,B,PRI,1
+ca1dP1,Casamino,1 uM-C,D,PRI,1
+ca1eP1,Casamino,1 uM-C,E,PRI,1
+ca400aL2,Casamino,400 uM-C,A,LOM,2
+ca400bL2,Casamino,400 uM-C,B,LOM,2
+ca400cL2,Casamino,400 uM-C,C,LOM,2
+ca400dL2,Casamino,400 uM-C,D,LOM,2
+ca400eL2,Casamino,400 uM-C,E,LOM,2
+ca40aL2,Casamino,40 uM-C,A,LOM,2
+ca40bL2,Casamino,40 uM-C,B,LOM,2
+ca40cL2,Casamino,40 uM-C,C,LOM,2
+ca40dL2,Casamino,40 uM-C,D,LOM,2
+ca40eL2,Casamino,40 uM-C,E,LOM,2
+ca4aL2,Casamino,4 uM-C,A,LOM,2
+ca4bL2,Casamino,4 uM-C,B,LOM,2
+ca4dL2,Casamino,4 uM-C,D,LOM,2
+ca4eL2,Casamino,4 uM-C,E,LOM,2
+ca1aL2,Casamino,1 uM-C,A,LOM,2
+ca1cL2,Casamino,1 uM-C,C,LOM,2
+ca1dL2,Casamino,1 uM-C,D,LOM,2
+ca1eL2,Casamino,1 uM-C,E,LOM,2
+ca400aP2,Casamino,400 uM-C,A,PRI,2
+ca400bP2,Casamino,400 uM-C,B,PRI,2
+ca400cP2,Casamino,400 uM-C,C,PRI,2
+ca400dP2,Casamino,400 uM-C,D,PRI,2
+ca400eP2,Casamino,400 uM-C,E,PRI,2
+ca40aP2,Casamino,40 uM-C,A,PRI,2
+ca40bP2,Casamino,40 uM-C,B,PRI,2
+ca40cP2,Casamino,40 uM-C,C,PRI,2
+ca40dP2,Casamino,40 uM-C,D,PRI,2
+ca40eP2,Casamino,40 uM-C,E,PRI,2
+ca4aP2,Casamino,4 uM-C,A,PRI,2
+ca4bP2,Casamino,4 uM-C,B,PRI,2
+ca4dP2,Casamino,4 uM-C,D,PRI,2
+ca4eP2,Casamino,4 uM-C,E,PRI,2
+ca1aP2,Casamino,1 uM-C,A,PRI,2
+ca1bP2,Casamino,1 uM-C,B,PRI,2
+ca1cP2,Casamino,1 uM-C,C,PRI,2
+ca1dP2,Casamino,1 uM-C,D,PRI,2
+ca1eP2,Casamino,1 uM-C,E,PRI,2
+ca400aL4,Casamino,400 uM-C,A,LOM,4
+ca400bL4,Casamino,400 uM-C,B,LOM,4
+ca400dL4,Casamino,400 uM-C,D,LOM,4
+ca400eL4,Casamino,400 uM-C,E,LOM,4
+ca40bL4,Casamino,40 uM-C,B,LOM,4
+ca40cL4,Casamino,40 uM-C,C,LOM,4
+ca40dL4,Casamino,40 uM-C,D,LOM,4
+ca40eL4,Casamino,40 uM-C,E,LOM,4
+ca4aL4,Casamino,4 uM-C,A,LOM,4
+ca4bL4,Casamino,4 uM-C,B,LOM,4
+ca4cL4,Casamino,4 uM-C,C,LOM,4
+ca4dL4,Casamino,4 uM-C,D,LOM,4
+ca4eL4,Casamino,4 uM-C,E,LOM,4
+ca1aL4,Casamino,1 uM-C,A,LOM,4
+ca1bL4,Casamino,1 uM-C,B,LOM,4
+ca1cL4,Casamino,1 uM-C,C,LOM,4
+ca1dL4,Casamino,1 uM-C,D,LOM,4
+ca1eL4,Casamino,1 uM-C,E,LOM,4
+ca400aP4,Casamino,400 uM-C,A,PRI,4
+ca400bP4,Casamino,400 uM-C,B,PRI,4
+ca400cP4,Casamino,400 uM-C,C,PRI,4
+ca400dP4,Casamino,400 uM-C,D,PRI,4
+ca400eP4,Casamino,400 uM-C,E,PRI,4
+ca40aP4,Casamino,40 uM-C,A,PRI,4
+ca40bP4,Casamino,40 uM-C,B,PRI,4
+ca40cP4,Casamino,40 uM-C,C,PRI,4
+ca40dP4,Casamino,40 uM-C,D,PRI,4
+ca40eP4,Casamino,40 uM-C,E,PRI,4
+ca4aP4,Casamino,4 uM-C,A,PRI,4
+ca4bP4,Casamino,4 uM-C,B,PRI,4
+ca4cP4,Casamino,4 uM-C,C,PRI,4
+ca4dP4,Casamino,4 uM-C,D,PRI,4
+ca4eP4,Casamino,4 uM-C,E,PRI,4
+ca1aP4,Casamino,1 uM-C,A,PRI,4
+ca1bP4,Casamino,1 uM-C,B,PRI,4
+ca1cP4,Casamino,1 uM-C,C,PRI,4
+ca1dP4,Casamino,1 uM-C,D,PRI,4
+ca1eP4,Casamino,1 uM-C,E,PRI,4
+ca400aL7,Casamino,400 uM-C,A,LOM,7
+ca400bL7,Casamino,400 uM-C,B,LOM,7
+ca400dL7,Casamino,400 uM-C,D,LOM,7
+ca400eL7,Casamino,400 uM-C,E,LOM,7
+ca40aL7,Casamino,40 uM-C,A,LOM,7
+ca40bL7,Casamino,40 uM-C,B,LOM,7
+ca40cL7,Casamino,40 uM-C,C,LOM,7
+ca40dL7,Casamino,40 uM-C,D,LOM,7
+ca4aL7,Casamino,4 uM-C,A,LOM,7
+ca4bL7,Casamino,4 uM-C,B,LOM,7
+ca4cL7,Casamino,4 uM-C,C,LOM,7
+ca4dL7,Casamino,4 uM-C,D,LOM,7
+ca4eL7,Casamino,4 uM-C,E,LOM,7
+ca1aL7,Casamino,1 uM-C,A,LOM,7
+ca1bL7,Casamino,1 uM-C,B,LOM,7
+ca1cL7,Casamino,1 uM-C,C,LOM,7
+ca1dL7,Casamino,1 uM-C,D,LOM,7
+ca1eL7,Casamino,1 uM-C,E,LOM,7
+ca400aP7,Casamino,400 uM-C,A,PRI,7
+ca400bP7,Casamino,400 uM-C,B,PRI,7
+ca400cP7,Casamino,400 uM-C,C,PRI,7
+ca400dP7,Casamino,400 uM-C,D,PRI,7
+ca400eP7,Casamino,400 uM-C,E,PRI,7
+ca40aP7,Casamino,40 uM-C,A,PRI,7
+ca40bP7,Casamino,40 uM-C,B,PRI,7
+ca40cP7,Casamino,40 uM-C,C,PRI,7
+ca40dP7,Casamino,40 uM-C,D,PRI,7
+ca40eP7,Casamino,40 uM-C,E,PRI,7
+ca4aP7,Casamino,4 uM-C,A,PRI,7
+ca4bP7,Casamino,4 uM-C,B,PRI,7
+ca4cP7,Casamino,4 uM-C,C,PRI,7
+ca4dP7,Casamino,4 uM-C,D,PRI,7
+ca4eP7,Casamino,4 uM-C,E,PRI,7
+ca1aP7,Casamino,1 uM-C,A,PRI,7
+ca1bP7,Casamino,1 uM-C,B,PRI,7
+ca1cP7,Casamino,1 uM-C,C,PRI,7
+ca1dP7,Casamino,1 uM-C,D,PRI,7
+ca1eP7,Casamino,1 uM-C,E,PRI,7
+ca400aL10,Casamino,400 uM-C,A,LOM,10
+ca400bL10,Casamino,400 uM-C,B,LOM,10
+ca400cL10,Casamino,400 uM-C,C,LOM,10
+ca400dL10,Casamino,400 uM-C,D,LOM,10
+ca400eL10,Casamino,400 uM-C,E,LOM,10
+ca40aL10,Casamino,40 uM-C,A,LOM,10
+ca40bL10,Casamino,40 uM-C,B,LOM,10
+ca40cL10,Casamino,40 uM-C,C,LOM,10
+ca40dL10,Casamino,40 uM-C,D,LOM,10
+ca40eL10,Casamino,40 uM-C,E,LOM,10
+ca4aL10,Casamino,4 uM-C,A,LOM,10
+ca4bL10,Casamino,4 uM-C,B,LOM,10
+ca4cL10,Casamino,4 uM-C,C,LOM,10
+ca4dL10,Casamino,4 uM-C,D,LOM,10
+ca4eL10,Casamino,4 uM-C,E,LOM,10
+ca1aL10,Casamino,1 uM-C,A,LOM,10
+ca1bL10,Casamino,1 uM-C,B,LOM,10
+ca1cL10,Casamino,1 uM-C,C,LOM,10
+ca1dL10,Casamino,1 uM-C,D,LOM,10
+ca400aP10,Casamino,400 uM-C,A,PRI,10
+ca400cP10,Casamino,400 uM-C,C,PRI,10
+ca400dP10,Casamino,400 uM-C,D,PRI,10
+ca400eP10,Casamino,400 uM-C,E,PRI,10
+ca40aP10,Casamino,40 uM-C,A,PRI,10
+ca40bP10,Casamino,40 uM-C,B,PRI,10
+ca40cP10,Casamino,40 uM-C,C,PRI,10
+ca40dP10,Casamino,40 uM-C,D,PRI,10
+ca40eP10,Casamino,40 uM-C,E,PRI,10
+ca4aP10,Casamino,4 uM-C,A,PRI,10
+ca4bP10,Casamino,4 uM-C,B,PRI,10
+ca4cP10,Casamino,4 uM-C,C,PRI,10
+ca4dP10,Casamino,4 uM-C,D,PRI,10
+ca4eP10,Casamino,4 uM-C,E,PRI,10
+ca1aP10,Casamino,1 uM-C,A,PRI,10
+ca1bP10,Casamino,1 uM-C,B,PRI,10
+ca1cP10,Casamino,1 uM-C,C,PRI,10
+ca1dP10,Casamino,1 uM-C,D,PRI,10
+ca1eP10,Casamino,1 uM-C,E,PRI,10
+ca400aL14,Casamino,400 uM-C,A,LOM,14
+ca400bL14,Casamino,400 uM-C,B,LOM,14
+ca400cL14,Casamino,400 uM-C,C,LOM,14
+ca400dL14,Casamino,400 uM-C,D,LOM,14
+ca40bL14,Casamino,40 uM-C,B,LOM,14
+ca40cL14,Casamino,40 uM-C,C,LOM,14
+ca40dL14,Casamino,40 uM-C,D,LOM,14
+ca40eL14,Casamino,40 uM-C,E,LOM,14
+ca4aL14,Casamino,4 uM-C,A,LOM,14
+ca4bL14,Casamino,4 uM-C,B,LOM,14
+ca4cL14,Casamino,4 uM-C,C,LOM,14
+ca4dL14,Casamino,4 uM-C,D,LOM,14
+ca4eL14,Casamino,4 uM-C,E,LOM,14
+ca1aL14,Casamino,1 uM-C,A,LOM,14
+ca1bL14,Casamino,1 uM-C,B,LOM,14
+ca1cL14,Casamino,1 uM-C,C,LOM,14
+ca1dL14,Casamino,1 uM-C,D,LOM,14
+ca1eL14,Casamino,1 uM-C,E,LOM,14
+ca400aP14,Casamino,400 uM-C,A,PRI,14
+ca400bP14,Casamino,400 uM-C,B,PRI,14
+ca400cP14,Casamino,400 uM-C,C,PRI,14
+ca400dP14,Casamino,400 uM-C,D,PRI,14
+ca400eP14,Casamino,400 uM-C,E,PRI,14
+ca40aP14,Casamino,40 uM-C,A,PRI,14
+ca40bP14,Casamino,40 uM-C,B,PRI,14
+ca40cP14,Casamino,40 uM-C,C,PRI,14
+ca40dP14,Casamino,40 uM-C,D,PRI,14
+ca40eP14,Casamino,40 uM-C,E,PRI,14
+ca4aP14,Casamino,4 uM-C,A,PRI,14
+ca4bP14,Casamino,4 uM-C,B,PRI,14
+ca4dP14,Casamino,4 uM-C,D,PRI,14
+ca4eP14,Casamino,4 uM-C,E,PRI,14
+ca1aP14,Casamino,1 uM-C,A,PRI,14
+ca1bP14,Casamino,1 uM-C,B,PRI,14
+ca1cP14,Casamino,1 uM-C,C,PRI,14
+ca1dP14,Casamino,1 uM-C,D,PRI,14
+ca1eP14,Casamino,1 uM-C,E,PRI,14
+co400aL0,Coumarate ,400 uM-C,A,LOM,0
+co400bL0,Coumarate ,400 uM-C,B,LOM,0
+co400cL0,Coumarate ,400 uM-C,C,LOM,0
+co400dL0,Coumarate ,400 uM-C,D,LOM,0
+co400eL0,Coumarate ,400 uM-C,E,LOM,0
+co40aL0,Coumarate ,40 uM-C,A,LOM,0
+co40bL0,Coumarate ,40 uM-C,B,LOM,0
+co40cL0,Coumarate ,40 uM-C,C,LOM,0
+co40dL0,Coumarate ,40 uM-C,D,LOM,0
+co40eL0,Coumarate ,40 uM-C,E,LOM,0
+co4aL0,Coumarate ,4 uM-C,A,LOM,0
+co4bL0,Coumarate ,4 uM-C,B,LOM,0
+co4cL0,Coumarate ,4 uM-C,C,LOM,0
+co4dL0,Coumarate ,4 uM-C,D,LOM,0
+co4eL0,Coumarate ,4 uM-C,E,LOM,0
+co1bL0,Coumarate ,1 uM-C,B,LOM,0
+co1cL0,Coumarate ,1 uM-C,C,LOM,0
+co1dL0,Coumarate ,1 uM-C,D,LOM,0
+co1eL0,Coumarate ,1 uM-C,E,LOM,0
+co400aP0,Coumarate ,400 uM-C,A,PRI,0
+co400bP0,Coumarate ,400 uM-C,B,PRI,0
+co400cP0,Coumarate ,400 uM-C,C,PRI,0
+co400dP0,Coumarate ,400 uM-C,D,PRI,0
+co400eP0,Coumarate ,400 uM-C,E,PRI,0
+co40aP0,Coumarate ,40 uM-C,A,PRI,0
+co40bP0,Coumarate ,40 uM-C,B,PRI,0
+co40cP0,Coumarate ,40 uM-C,C,PRI,0
+co40dP0,Coumarate ,40 uM-C,D,PRI,0
+co4aP0,Coumarate ,4 uM-C,A,PRI,0
+co4bP0,Coumarate ,4 uM-C,B,PRI,0
+co4cP0,Coumarate ,4 uM-C,C,PRI,0
+co4dP0,Coumarate ,4 uM-C,D,PRI,0
+co4eP0,Coumarate ,4 uM-C,E,PRI,0
+co1aP0,Coumarate ,1 uM-C,A,PRI,0
+co1bP0,Coumarate ,1 uM-C,B,PRI,0
+co1cP0,Coumarate ,1 uM-C,C,PRI,0
+co1dP0,Coumarate ,1 uM-C,D,PRI,0
+co1eP0,Coumarate ,1 uM-C,E,PRI,0
+co400aL1,Coumarate ,400 uM-C,A,LOM,1
+co400bL1,Coumarate ,400 uM-C,B,LOM,1
+co400cL1,Coumarate ,400 uM-C,C,LOM,1
+co400dL1,Coumarate ,400 uM-C,D,LOM,1
+co400eL1,Coumarate ,400 uM-C,E,LOM,1
+co40aL1,Coumarate ,40 uM-C,A,LOM,1
+co40bL1,Coumarate ,40 uM-C,B,LOM,1
+co40cL1,Coumarate ,40 uM-C,C,LOM,1
+co40dL1,Coumarate ,40 uM-C,D,LOM,1
+co40eL1,Coumarate ,40 uM-C,E,LOM,1
+co4aL1,Coumarate ,4 uM-C,A,LOM,1
+co4bL1,Coumarate ,4 uM-C,B,LOM,1
+co4cL1,Coumarate ,4 uM-C,C,LOM,1
+co4dL1,Coumarate ,4 uM-C,D,LOM,1
+co4eL1,Coumarate ,4 uM-C,E,LOM,1
+co1aL1,Coumarate ,1 uM-C,A,LOM,1
+co1bL1,Coumarate ,1 uM-C,B,LOM,1
+co1cL1,Coumarate ,1 uM-C,C,LOM,1
+co1dL1,Coumarate ,1 uM-C,D,LOM,1
+co1eL1,Coumarate ,1 uM-C,E,LOM,1
+co400aP1,Coumarate ,400 uM-C,A,PRI,1
+co400bP1,Coumarate ,400 uM-C,B,PRI,1
+co400cP1,Coumarate ,400 uM-C,C,PRI,1
+co400dP1,Coumarate ,400 uM-C,D,PRI,1
+co400eP1,Coumarate ,400 uM-C,E,PRI,1
+co40aP1,Coumarate ,40 uM-C,A,PRI,1
+co40bP1,Coumarate ,40 uM-C,B,PRI,1
+co40cP1,Coumarate ,40 uM-C,C,PRI,1
+co40dP1,Coumarate ,40 uM-C,D,PRI,1
+co40eP1,Coumarate ,40 uM-C,E,PRI,1
+co4aP1,Coumarate ,4 uM-C,A,PRI,1
+co4bP1,Coumarate ,4 uM-C,B,PRI,1
+co4cP1,Coumarate ,4 uM-C,C,PRI,1
+co4dP1,Coumarate ,4 uM-C,D,PRI,1
+co4eP1,Coumarate ,4 uM-C,E,PRI,1
+co1aP1,Coumarate ,1 uM-C,A,PRI,1
+co1bP1,Coumarate ,1 uM-C,B,PRI,1
+co1cP1,Coumarate ,1 uM-C,C,PRI,1
+co1dP1,Coumarate ,1 uM-C,D,PRI,1
+co1eP1,Coumarate ,1 uM-C,E,PRI,1
+co400aL2,Coumarate ,400 uM-C,A,LOM,2
+co400bL2,Coumarate ,400 uM-C,B,LOM,2
+co400cL2,Coumarate ,400 uM-C,C,LOM,2
+co400dL2,Coumarate ,400 uM-C,D,LOM,2
+co400eL2,Coumarate ,400 uM-C,E,LOM,2
+co40aL2,Coumarate ,40 uM-C,A,LOM,2
+co40bL2,Coumarate ,40 uM-C,B,LOM,2
+co40cL2,Coumarate ,40 uM-C,C,LOM,2
+co40dL2,Coumarate ,40 uM-C,D,LOM,2
+co40eL2,Coumarate ,40 uM-C,E,LOM,2
+co4aL2,Coumarate ,4 uM-C,A,LOM,2
+co4bL2,Coumarate ,4 uM-C,B,LOM,2
+co4cL2,Coumarate ,4 uM-C,C,LOM,2
+co4dL2,Coumarate ,4 uM-C,D,LOM,2
+co4eL2,Coumarate ,4 uM-C,E,LOM,2
+co1aL2,Coumarate ,1 uM-C,A,LOM,2
+co1bL2,Coumarate ,1 uM-C,B,LOM,2
+co1cL2,Coumarate ,1 uM-C,C,LOM,2
+co1dL2,Coumarate ,1 uM-C,D,LOM,2
+co1eL2,Coumarate ,1 uM-C,E,LOM,2
+co400aP2,Coumarate ,400 uM-C,A,PRI,2
+co400bP2,Coumarate ,400 uM-C,B,PRI,2
+co400cP2,Coumarate ,400 uM-C,C,PRI,2
+co400dP2,Coumarate ,400 uM-C,D,PRI,2
+co400eP2,Coumarate ,400 uM-C,E,PRI,2
+co40aP2,Coumarate ,40 uM-C,A,PRI,2
+co40bP2,Coumarate ,40 uM-C,B,PRI,2
+co40cP2,Coumarate ,40 uM-C,C,PRI,2
+co40dP2,Coumarate ,40 uM-C,D,PRI,2
+co40eP2,Coumarate ,40 uM-C,E,PRI,2
+co4aP2,Coumarate ,4 uM-C,A,PRI,2
+co4bP2,Coumarate ,4 uM-C,B,PRI,2
+co4cP2,Coumarate ,4 uM-C,C,PRI,2
+co4dP2,Coumarate ,4 uM-C,D,PRI,2
+co4eP2,Coumarate ,4 uM-C,E,PRI,2
+co1aP2,Coumarate ,1 uM-C,A,PRI,2
+co1bP2,Coumarate ,1 uM-C,B,PRI,2
+co1cP2,Coumarate ,1 uM-C,C,PRI,2
+co1dP2,Coumarate ,1 uM-C,D,PRI,2
+co1eP2,Coumarate ,1 uM-C,E,PRI,2
+co400aL4,Coumarate ,400 uM-C,A,LOM,4
+co400bL4,Coumarate ,400 uM-C,B,LOM,4
+co400cL4,Coumarate ,400 uM-C,C,LOM,4
+co400dL4,Coumarate ,400 uM-C,D,LOM,4
+co400eL4,Coumarate ,400 uM-C,E,LOM,4
+co40aL4,Coumarate ,40 uM-C,A,LOM,4
+co40bL4,Coumarate ,40 uM-C,B,LOM,4
+co40cL4,Coumarate ,40 uM-C,C,LOM,4
+co40dL4,Coumarate ,40 uM-C,D,LOM,4
+co40eL4,Coumarate ,40 uM-C,E,LOM,4
+co4aL4,Coumarate ,4 uM-C,A,LOM,4
+co4bL4,Coumarate ,4 uM-C,B,LOM,4
+co4cL4,Coumarate ,4 uM-C,C,LOM,4
+co4dL4,Coumarate ,4 uM-C,D,LOM,4
+co4eL4,Coumarate ,4 uM-C,E,LOM,4
+co1aL4,Coumarate ,1 uM-C,A,LOM,4
+co1bL4,Coumarate ,1 uM-C,B,LOM,4
+co1cL4,Coumarate ,1 uM-C,C,LOM,4
+co1dL4,Coumarate ,1 uM-C,D,LOM,4
+co1eL4,Coumarate ,1 uM-C,E,LOM,4
+co400aP4,Coumarate ,400 uM-C,A,PRI,4
+co400bP4,Coumarate ,400 uM-C,B,PRI,4
+co400cP4,Coumarate ,400 uM-C,C,PRI,4
+co400dP4,Coumarate ,400 uM-C,D,PRI,4
+co400eP4,Coumarate ,400 uM-C,E,PRI,4
+co40aP4,Coumarate ,40 uM-C,A,PRI,4
+co40bP4,Coumarate ,40 uM-C,B,PRI,4
+co40cP4,Coumarate ,40 uM-C,C,PRI,4
+co40dP4,Coumarate ,40 uM-C,D,PRI,4
+co40eP4,Coumarate ,40 uM-C,E,PRI,4
+co4aP4,Coumarate ,4 uM-C,A,PRI,4
+co4bP4,Coumarate ,4 uM-C,B,PRI,4
+co4cP4,Coumarate ,4 uM-C,C,PRI,4
+co4dP4,Coumarate ,4 uM-C,D,PRI,4
+co4eP4,Coumarate ,4 uM-C,E,PRI,4
+co1aP4,Coumarate ,1 uM-C,A,PRI,4
+co1bP4,Coumarate ,1 uM-C,B,PRI,4
+co1cP4,Coumarate ,1 uM-C,C,PRI,4
+co1dP4,Coumarate ,1 uM-C,D,PRI,4
+co1eP4,Coumarate ,1 uM-C,E,PRI,4
+co400aL7,Coumarate ,400 uM-C,A,LOM,7
+co400bL7,Coumarate ,400 uM-C,B,LOM,7
+co400cL7,Coumarate ,400 uM-C,C,LOM,7
+co400dL7,Coumarate ,400 uM-C,D,LOM,7
+co400eL7,Coumarate ,400 uM-C,E,LOM,7
+co40aL7,Coumarate ,40 uM-C,A,LOM,7
+co40bL7,Coumarate ,40 uM-C,B,LOM,7
+co40cL7,Coumarate ,40 uM-C,C,LOM,7
+co40dL7,Coumarate ,40 uM-C,D,LOM,7
+co4aL7,Coumarate ,4 uM-C,A,LOM,7
+co4bL7,Coumarate ,4 uM-C,B,LOM,7
+co4cL7,Coumarate ,4 uM-C,C,LOM,7
+co4dL7,Coumarate ,4 uM-C,D,LOM,7
+co4eL7,Coumarate ,4 uM-C,E,LOM,7
+co1aL7,Coumarate ,1 uM-C,A,LOM,7
+co1bL7,Coumarate ,1 uM-C,B,LOM,7
+co1cL7,Coumarate ,1 uM-C,C,LOM,7
+co1dL7,Coumarate ,1 uM-C,D,LOM,7
+co1eL7,Coumarate ,1 uM-C,E,LOM,7
+co400aP7,Coumarate ,400 uM-C,A,PRI,7
+co400bP7,Coumarate ,400 uM-C,B,PRI,7
+co400cP7,Coumarate ,400 uM-C,C,PRI,7
+co400dP7,Coumarate ,400 uM-C,D,PRI,7
+co400eP7,Coumarate ,400 uM-C,E,PRI,7
+co40aP7,Coumarate ,40 uM-C,A,PRI,7
+co40bP7,Coumarate ,40 uM-C,B,PRI,7
+co40cP7,Coumarate ,40 uM-C,C,PRI,7
+co40dP7,Coumarate ,40 uM-C,D,PRI,7
+co40eP7,Coumarate ,40 uM-C,E,PRI,7
+co4aP7,Coumarate ,4 uM-C,A,PRI,7
+co4bP7,Coumarate ,4 uM-C,B,PRI,7
+co4cP7,Coumarate ,4 uM-C,C,PRI,7
+co4dP7,Coumarate ,4 uM-C,D,PRI,7
+co4eP7,Coumarate ,4 uM-C,E,PRI,7
+co1aP7,Coumarate ,1 uM-C,A,PRI,7
+co1bP7,Coumarate ,1 uM-C,B,PRI,7
+co1cP7,Coumarate ,1 uM-C,C,PRI,7
+co1dP7,Coumarate ,1 uM-C,D,PRI,7
+co1eP7,Coumarate ,1 uM-C,E,PRI,7
+co400aL10,Coumarate ,400 uM-C,A,LOM,10
+co400bL10,Coumarate ,400 uM-C,B,LOM,10
+co400cL10,Coumarate ,400 uM-C,C,LOM,10
+co400dL10,Coumarate ,400 uM-C,D,LOM,10
+co400eL10,Coumarate ,400 uM-C,E,LOM,10
+co40aL10,Coumarate ,40 uM-C,A,LOM,10
+co40bL10,Coumarate ,40 uM-C,B,LOM,10
+co40cL10,Coumarate ,40 uM-C,C,LOM,10
+co40dL10,Coumarate ,40 uM-C,D,LOM,10
+co40eL10,Coumarate ,40 uM-C,E,LOM,10
+co4bL10,Coumarate ,4 uM-C,B,LOM,10
+co4cL10,Coumarate ,4 uM-C,C,LOM,10
+co4dL10,Coumarate ,4 uM-C,D,LOM,10
+co4eL10,Coumarate ,4 uM-C,E,LOM,10
+co1aL10,Coumarate ,1 uM-C,A,LOM,10
+co1bL10,Coumarate ,1 uM-C,B,LOM,10
+co1cL10,Coumarate ,1 uM-C,C,LOM,10
+co1dL10,Coumarate ,1 uM-C,D,LOM,10
+co1eL10,Coumarate ,1 uM-C,E,LOM,10
+co400aP10,Coumarate ,400 uM-C,A,PRI,10
+co400bP10,Coumarate ,400 uM-C,B,PRI,10
+co400cP10,Coumarate ,400 uM-C,C,PRI,10
+co400dP10,Coumarate ,400 uM-C,D,PRI,10
+co400eP10,Coumarate ,400 uM-C,E,PRI,10
+co40aP10,Coumarate ,40 uM-C,A,PRI,10
+co40bP10,Coumarate ,40 uM-C,B,PRI,10
+co40cP10,Coumarate ,40 uM-C,C,PRI,10
+co40dP10,Coumarate ,40 uM-C,D,PRI,10
+co4aP10,Coumarate ,4 uM-C,A,PRI,10
+co4bP10,Coumarate ,4 uM-C,B,PRI,10
+co4cP10,Coumarate ,4 uM-C,C,PRI,10
+co4dP10,Coumarate ,4 uM-C,D,PRI,10
+co4eP10,Coumarate ,4 uM-C,E,PRI,10
+co1aP10,Coumarate ,1 uM-C,A,PRI,10
+co1bP10,Coumarate ,1 uM-C,B,PRI,10
+co1cP10,Coumarate ,1 uM-C,C,PRI,10
+co1dP10,Coumarate ,1 uM-C,D,PRI,10
+co1eP10,Coumarate ,1 uM-C,E,PRI,10
+co400aL14,Coumarate ,400 uM-C,A,LOM,14
+co400bL14,Coumarate ,400 uM-C,B,LOM,14
+co400cL14,Coumarate ,400 uM-C,C,LOM,14
+co400dL14,Coumarate ,400 uM-C,D,LOM,14
+co400eL14,Coumarate ,400 uM-C,E,LOM,14
+co40aL14,Coumarate ,40 uM-C,A,LOM,14
+co40bL14,Coumarate ,40 uM-C,B,LOM,14
+co40cL14,Coumarate ,40 uM-C,C,LOM,14
+co40dL14,Coumarate ,40 uM-C,D,LOM,14
+co40eL14,Coumarate ,40 uM-C,E,LOM,14
+co4aL14,Coumarate ,4 uM-C,A,LOM,14
+co4bL14,Coumarate ,4 uM-C,B,LOM,14
+co4cL14,Coumarate ,4 uM-C,C,LOM,14
+co4dL14,Coumarate ,4 uM-C,D,LOM,14
+co4eL14,Coumarate ,4 uM-C,E,LOM,14
+co1aL14,Coumarate ,1 uM-C,A,LOM,14
+co1cL14,Coumarate ,1 uM-C,C,LOM,14
+co1dL14,Coumarate ,1 uM-C,D,LOM,14
+co1eL14,Coumarate ,1 uM-C,E,LOM,14
+co400aP14,Coumarate ,400 uM-C,A,PRI,14
+co400bP14,Coumarate ,400 uM-C,B,PRI,14
+co400cP14,Coumarate ,400 uM-C,C,PRI,14
+co400dP14,Coumarate ,400 uM-C,D,PRI,14
+co400eP14,Coumarate ,400 uM-C,E,PRI,14
+co40aP14,Coumarate ,40 uM-C,A,PRI,14
+co40bP14,Coumarate ,40 uM-C,B,PRI,14
+co40cP14,Coumarate ,40 uM-C,C,PRI,14
+co40dP14,Coumarate ,40 uM-C,D,PRI,14
+co40eP14,Coumarate ,40 uM-C,E,PRI,14
+co4aP14,Coumarate ,4 uM-C,A,PRI,14
+co4bP14,Coumarate ,4 uM-C,B,PRI,14
+co4cP14,Coumarate ,4 uM-C,C,PRI,14
+co4dP14,Coumarate ,4 uM-C,D,PRI,14
+co4eP14,Coumarate ,4 uM-C,E,PRI,14
+co1aP14,Coumarate ,1 uM-C,A,PRI,14
+co1bP14,Coumarate ,1 uM-C,B,PRI,14
+co1cP14,Coumarate ,1 uM-C,C,PRI,14
+co1dP14,Coumarate ,1 uM-C,D,PRI,14
+co1eP14,Coumarate ,1 uM-C,E,PRI,14
+t400aL0,Tryptone,400 uM-C,A,LOM,0
+t400bL0,Tryptone,400 uM-C,B,LOM,0
+t400cL0,Tryptone,400 uM-C,C,LOM,0
+t400dL0,Tryptone,400 uM-C,D,LOM,0
+t400eL0,Tryptone,400 uM-C,E,LOM,0
+t40aL0,Tryptone,40 uM-C,A,LOM,0
+t40bL0,Tryptone,40 uM-C,B,LOM,0
+t40cL0,Tryptone,40 uM-C,C,LOM,0
+t40dL0,Tryptone,40 uM-C,D,LOM,0
+t40eL0,Tryptone,40 uM-C,E,LOM,0
+t4aL0,Tryptone,4 uM-C,A,LOM,0
+t4bL0,Tryptone,4 uM-C,B,LOM,0
+t4cL0,Tryptone,4 uM-C,C,LOM,0
+t4dL0,Tryptone,4 uM-C,D,LOM,0
+t4eL0,Tryptone,4 uM-C,E,LOM,0
+t1aL0,Tryptone,1 uM-C,A,LOM,0
+t1bL0,Tryptone,1 uM-C,B,LOM,0
+t1cL0,Tryptone,1 uM-C,C,LOM,0
+t1dL0,Tryptone,1 uM-C,D,LOM,0
+t1eL0,Tryptone,1 uM-C,E,LOM,0
+t400aP0,Tryptone,400 uM-C,A,PRI,0
+t400bP0,Tryptone,400 uM-C,B,PRI,0
+t400cP0,Tryptone,400 uM-C,C,PRI,0
+t400dP0,Tryptone,400 uM-C,D,PRI,0
+t400eP0,Tryptone,400 uM-C,E,PRI,0
+t40aP0,Tryptone,40 uM-C,A,PRI,0
+t40bP0,Tryptone,40 uM-C,B,PRI,0
+t40cP0,Tryptone,40 uM-C,C,PRI,0
+t40dP0,Tryptone,40 uM-C,D,PRI,0
+t40eP0,Tryptone,40 uM-C,E,PRI,0
+t4aP0,Tryptone,4 uM-C,A,PRI,0
+t4bP0,Tryptone,4 uM-C,B,PRI,0
+t4cP0,Tryptone,4 uM-C,C,PRI,0
+t4dP0,Tryptone,4 uM-C,D,PRI,0
+t1aP0,Tryptone,1 uM-C,A,PRI,0
+t1bP0,Tryptone,1 uM-C,B,PRI,0
+t1cP0,Tryptone,1 uM-C,C,PRI,0
+t1dP0,Tryptone,1 uM-C,D,PRI,0
+t1eP0,Tryptone,1 uM-C,E,PRI,0
+t400aL1,Tryptone,400 uM-C,A,LOM,1
+t400bL1,Tryptone,400 uM-C,B,LOM,1
+t400cL1,Tryptone,400 uM-C,C,LOM,1
+t400dL1,Tryptone,400 uM-C,D,LOM,1
+t400eL1,Tryptone,400 uM-C,E,LOM,1
+t40aL1,Tryptone,40 uM-C,A,LOM,1
+t40bL1,Tryptone,40 uM-C,B,LOM,1
+t40cL1,Tryptone,40 uM-C,C,LOM,1
+t40dL1,Tryptone,40 uM-C,D,LOM,1
+t40eL1,Tryptone,40 uM-C,E,LOM,1
+t4aL1,Tryptone,4 uM-C,A,LOM,1
+t4bL1,Tryptone,4 uM-C,B,LOM,1
+t4cL1,Tryptone,4 uM-C,C,LOM,1
+t4dL1,Tryptone,4 uM-C,D,LOM,1
+t4eL1,Tryptone,4 uM-C,E,LOM,1
+t1aL1,Tryptone,1 uM-C,A,LOM,1
+t1cL1,Tryptone,1 uM-C,C,LOM,1
+t1dL1,Tryptone,1 uM-C,D,LOM,1
+t400aP1,Tryptone,400 uM-C,A,PRI,1
+t400bP1,Tryptone,400 uM-C,B,PRI,1
+t400cP1,Tryptone,400 uM-C,C,PRI,1
+t400dP1,Tryptone,400 uM-C,D,PRI,1
+t400eP1,Tryptone,400 uM-C,E,PRI,1
+t40aP1,Tryptone,40 uM-C,A,PRI,1
+t40bP1,Tryptone,40 uM-C,B,PRI,1
+t40cP1,Tryptone,40 uM-C,C,PRI,1
+t40dP1,Tryptone,40 uM-C,D,PRI,1
+t40eP1,Tryptone,40 uM-C,E,PRI,1
+t4aP1,Tryptone,4 uM-C,A,PRI,1
+t4bP1,Tryptone,4 uM-C,B,PRI,1
+t4cP1,Tryptone,4 uM-C,C,PRI,1
+t4dP1,Tryptone,4 uM-C,D,PRI,1
+t4eP1,Tryptone,4 uM-C,E,PRI,1
+t1aP1,Tryptone,1 uM-C,A,PRI,1
+t1bP1,Tryptone,1 uM-C,B,PRI,1
+t1cP1,Tryptone,1 uM-C,C,PRI,1
+t1dP1,Tryptone,1 uM-C,D,PRI,1
+t1eP1,Tryptone,1 uM-C,E,PRI,1
+t400aL2,Tryptone,400 uM-C,A,LOM,2
+t400bL2,Tryptone,400 uM-C,B,LOM,2
+t400cL2,Tryptone,400 uM-C,C,LOM,2
+t400dL2,Tryptone,400 uM-C,D,LOM,2
+t400eL2,Tryptone,400 uM-C,E,LOM,2
+t40aL2,Tryptone,40 uM-C,A,LOM,2
+t40cL2,Tryptone,40 uM-C,C,LOM,2
+t40dL2,Tryptone,40 uM-C,D,LOM,2
+t40eL2,Tryptone,40 uM-C,E,LOM,2
+t4aL2,Tryptone,4 uM-C,A,LOM,2
+t4bL2,Tryptone,4 uM-C,B,LOM,2
+t4cL2,Tryptone,4 uM-C,C,LOM,2
+t4dL2,Tryptone,4 uM-C,D,LOM,2
+t1aL2,Tryptone,1 uM-C,A,LOM,2
+t1bL2,Tryptone,1 uM-C,B,LOM,2
+t1dL2,Tryptone,1 uM-C,D,LOM,2
+t1eL2,Tryptone,1 uM-C,E,LOM,2
+t400aP2,Tryptone,400 uM-C,A,PRI,2
+t400bP2,Tryptone,400 uM-C,B,PRI,2
+t400cP2,Tryptone,400 uM-C,C,PRI,2
+t400dP2,Tryptone,400 uM-C,D,PRI,2
+t400eP2,Tryptone,400 uM-C,E,PRI,2
+t40aP2,Tryptone,40 uM-C,A,PRI,2
+t40bP2,Tryptone,40 uM-C,B,PRI,2
+t40cP2,Tryptone,40 uM-C,C,PRI,2
+t40dP2,Tryptone,40 uM-C,D,PRI,2
+t40eP2,Tryptone,40 uM-C,E,PRI,2
+t4aP2,Tryptone,4 uM-C,A,PRI,2
+t4bP2,Tryptone,4 uM-C,B,PRI,2
+t4cP2,Tryptone,4 uM-C,C,PRI,2
+t4dP2,Tryptone,4 uM-C,D,PRI,2
+t4eP2,Tryptone,4 uM-C,E,PRI,2
+t1aP2,Tryptone,1 uM-C,A,PRI,2
+t1bP2,Tryptone,1 uM-C,B,PRI,2
+t1cP2,Tryptone,1 uM-C,C,PRI,2
+t1dP2,Tryptone,1 uM-C,D,PRI,2
+t1eP2,Tryptone,1 uM-C,E,PRI,2
+t400aL4,Tryptone,400 uM-C,A,LOM,4
+t400bL4,Tryptone,400 uM-C,B,LOM,4
+t400cL4,Tryptone,400 uM-C,C,LOM,4
+t400dL4,Tryptone,400 uM-C,D,LOM,4
+t400eL4,Tryptone,400 uM-C,E,LOM,4
+t40aL4,Tryptone,40 uM-C,A,LOM,4
+t40bL4,Tryptone,40 uM-C,B,LOM,4
+t40cL4,Tryptone,40 uM-C,C,LOM,4
+t40dL4,Tryptone,40 uM-C,D,LOM,4
+t40eL4,Tryptone,40 uM-C,E,LOM,4
+t4aL4,Tryptone,4 uM-C,A,LOM,4
+t4bL4,Tryptone,4 uM-C,B,LOM,4
+t4cL4,Tryptone,4 uM-C,C,LOM,4
+t4dL4,Tryptone,4 uM-C,D,LOM,4
+t4eL4,Tryptone,4 uM-C,E,LOM,4
+t1aL4,Tryptone,1 uM-C,A,LOM,4
+t1bL4,Tryptone,1 uM-C,B,LOM,4
+t1cL4,Tryptone,1 uM-C,C,LOM,4
+t1dL4,Tryptone,1 uM-C,D,LOM,4
+t400aP4,Tryptone,400 uM-C,A,PRI,4
+t400bP4,Tryptone,400 uM-C,B,PRI,4
+t400cP4,Tryptone,400 uM-C,C,PRI,4
+t400dP4,Tryptone,400 uM-C,D,PRI,4
+t400eP4,Tryptone,400 uM-C,E,PRI,4
+t40aP4,Tryptone,40 uM-C,A,PRI,4
+t40bP4,Tryptone,40 uM-C,B,PRI,4
+t40cP4,Tryptone,40 uM-C,C,PRI,4
+t40dP4,Tryptone,40 uM-C,D,PRI,4
+t40eP4,Tryptone,40 uM-C,E,PRI,4
+t4aP4,Tryptone,4 uM-C,A,PRI,4
+t4bP4,Tryptone,4 uM-C,B,PRI,4
+t4cP4,Tryptone,4 uM-C,C,PRI,4
+t4dP4,Tryptone,4 uM-C,D,PRI,4
+t4eP4,Tryptone,4 uM-C,E,PRI,4
+t1aP4,Tryptone,1 uM-C,A,PRI,4
+t1bP4,Tryptone,1 uM-C,B,PRI,4
+t1cP4,Tryptone,1 uM-C,C,PRI,4
+t1dP4,Tryptone,1 uM-C,D,PRI,4
+t1eP4,Tryptone,1 uM-C,E,PRI,4
+t400aL7,Tryptone,400 uM-C,A,LOM,7
+t400bL7,Tryptone,400 uM-C,B,LOM,7
+t400cL7,Tryptone,400 uM-C,C,LOM,7
+t400dL7,Tryptone,400 uM-C,D,LOM,7
+t400eL7,Tryptone,400 uM-C,E,LOM,7
+t40aL7,Tryptone,40 uM-C,A,LOM,7
+t40bL7,Tryptone,40 uM-C,B,LOM,7
+t40cL7,Tryptone,40 uM-C,C,LOM,7
+t40dL7,Tryptone,40 uM-C,D,LOM,7
+t40eL7,Tryptone,40 uM-C,E,LOM,7
+t4aL7,Tryptone,4 uM-C,A,LOM,7
+t4bL7,Tryptone,4 uM-C,B,LOM,7
+t4dL7,Tryptone,4 uM-C,D,LOM,7
+t1aL7,Tryptone,1 uM-C,A,LOM,7
+t1bL7,Tryptone,1 uM-C,B,LOM,7
+t1cL7,Tryptone,1 uM-C,C,LOM,7
+t1dL7,Tryptone,1 uM-C,D,LOM,7
+t1eL7,Tryptone,1 uM-C,E,LOM,7
+t400aP7,Tryptone,400 uM-C,A,PRI,7
+t400bP7,Tryptone,400 uM-C,B,PRI,7
+t400cP7,Tryptone,400 uM-C,C,PRI,7
+t400dP7,Tryptone,400 uM-C,D,PRI,7
+t400eP7,Tryptone,400 uM-C,E,PRI,7
+t40aP7,Tryptone,40 uM-C,A,PRI,7
+t40bP7,Tryptone,40 uM-C,B,PRI,7
+t40cP7,Tryptone,40 uM-C,C,PRI,7
+t40dP7,Tryptone,40 uM-C,D,PRI,7
+t40eP7,Tryptone,40 uM-C,E,PRI,7
+t4aP7,Tryptone,4 uM-C,A,PRI,7
+t4bP7,Tryptone,4 uM-C,B,PRI,7
+t4cP7,Tryptone,4 uM-C,C,PRI,7
+t4dP7,Tryptone,4 uM-C,D,PRI,7
+t4eP7,Tryptone,4 uM-C,E,PRI,7
+t1aP7,Tryptone,1 uM-C,A,PRI,7
+t1bP7,Tryptone,1 uM-C,B,PRI,7
+t1cP7,Tryptone,1 uM-C,C,PRI,7
+t1dP7,Tryptone,1 uM-C,D,PRI,7
+t1eP7,Tryptone,1 uM-C,E,PRI,7
+t400aL10,Tryptone,400 uM-C,A,LOM,10
+t400bL10,Tryptone,400 uM-C,B,LOM,10
+t400cL10,Tryptone,400 uM-C,C,LOM,10
+t400dL10,Tryptone,400 uM-C,D,LOM,10
+t400eL10,Tryptone,400 uM-C,E,LOM,10
+t40aL10,Tryptone,40 uM-C,A,LOM,10
+t40bL10,Tryptone,40 uM-C,B,LOM,10
+t40cL10,Tryptone,40 uM-C,C,LOM,10
+t40dL10,Tryptone,40 uM-C,D,LOM,10
+t40eL10,Tryptone,40 uM-C,E,LOM,10
+t4aL10,Tryptone,4 uM-C,A,LOM,10
+t4bL10,Tryptone,4 uM-C,B,LOM,10
+t4cL10,Tryptone,4 uM-C,C,LOM,10
+t4dL10,Tryptone,4 uM-C,D,LOM,10
+t4eL10,Tryptone,4 uM-C,E,LOM,10
+t1aL10,Tryptone,1 uM-C,A,LOM,10
+t1bL10,Tryptone,1 uM-C,B,LOM,10
+t1cL10,Tryptone,1 uM-C,C,LOM,10
+t1dL10,Tryptone,1 uM-C,D,LOM,10
+t1eL10,Tryptone,1 uM-C,E,LOM,10
+t400aP10,Tryptone,400 uM-C,A,PRI,10
+t400bP10,Tryptone,400 uM-C,B,PRI,10
+t400cP10,Tryptone,400 uM-C,C,PRI,10
+t400dP10,Tryptone,400 uM-C,D,PRI,10
+t400eP10,Tryptone,400 uM-C,E,PRI,10
+t40aP10,Tryptone,40 uM-C,A,PRI,10
+t40bP10,Tryptone,40 uM-C,B,PRI,10
+t40cP10,Tryptone,40 uM-C,C,PRI,10
+t40dP10,Tryptone,40 uM-C,D,PRI,10
+t40eP10,Tryptone,40 uM-C,E,PRI,10
+t4aP10,Tryptone,4 uM-C,A,PRI,10
+t4bP10,Tryptone,4 uM-C,B,PRI,10
+t4cP10,Tryptone,4 uM-C,C,PRI,10
+t4dP10,Tryptone,4 uM-C,D,PRI,10
+t4eP10,Tryptone,4 uM-C,E,PRI,10
+t1aP10,Tryptone,1 uM-C,A,PRI,10
+t1bP10,Tryptone,1 uM-C,B,PRI,10
+t1cP10,Tryptone,1 uM-C,C,PRI,10
+t1eP10,Tryptone,1 uM-C,E,PRI,10
+t400aL14,Tryptone,400 uM-C,A,LOM,14
+t400bL14,Tryptone,400 uM-C,B,LOM,14
+t400cL14,Tryptone,400 uM-C,C,LOM,14
+t400dL14,Tryptone,400 uM-C,D,LOM,14
+t400eL14,Tryptone,400 uM-C,E,LOM,14
+t40aL14,Tryptone,40 uM-C,A,LOM,14
+t40bL14,Tryptone,40 uM-C,B,LOM,14
+t40cL14,Tryptone,40 uM-C,C,LOM,14
+t40dL14,Tryptone,40 uM-C,D,LOM,14
+t40eL14,Tryptone,40 uM-C,E,LOM,14
+t4aL14,Tryptone,4 uM-C,A,LOM,14
+t4bL14,Tryptone,4 uM-C,B,LOM,14
+t4dL14,Tryptone,4 uM-C,D,LOM,14
+t4eL14,Tryptone,4 uM-C,E,LOM,14
+t1aL14,Tryptone,1 uM-C,A,LOM,14
+t1bL14,Tryptone,1 uM-C,B,LOM,14
+t1cL14,Tryptone,1 uM-C,C,LOM,14
+t1dL14,Tryptone,1 uM-C,D,LOM,14
+t1eL14,Tryptone,1 uM-C,E,LOM,14
+t400aP14,Tryptone,400 uM-C,A,PRI,14
+t400bP14,Tryptone,400 uM-C,B,PRI,14
+t400cP14,Tryptone,400 uM-C,C,PRI,14
+t400dP14,Tryptone,400 uM-C,D,PRI,14
+t400eP14,Tryptone,400 uM-C,E,PRI,14
+t40aP14,Tryptone,40 uM-C,A,PRI,14
+t40bP14,Tryptone,40 uM-C,B,PRI,14
+t40cP14,Tryptone,40 uM-C,C,PRI,14
+t40dP14,Tryptone,40 uM-C,D,PRI,14
+t40eP14,Tryptone,40 uM-C,E,PRI,14
+t4aP14,Tryptone,4 uM-C,A,PRI,14
+t4bP14,Tryptone,4 uM-C,B,PRI,14
+t4cP14,Tryptone,4 uM-C,C,PRI,14
+t4dP14,Tryptone,4 uM-C,D,PRI,14
+t4eP14,Tryptone,4 uM-C,E,PRI,14
+t1aP14,Tryptone,1 uM-C,A,PRI,14
+t1bP14,Tryptone,1 uM-C,B,PRI,14
+t1cP14,Tryptone,1 uM-C,C,PRI,14
+t1dP14,Tryptone,1 uM-C,D,PRI,14
+t1eP14,Tryptone,1 uM-C,E,PRI,14
+cn1aN0,Control,1 uM-C,A,2 mM-C NOM,0
+cn1bN0,Control,1 uM-C,B,2 mM-C NOM,0
+cn1cN0,Control,1 uM-C,C,2 mM-C NOM,0
+cn1dN0,Control,1 uM-C,D,2 mM-C NOM,0
+cn1eN0,Control,1 uM-C,E,2 mM-C NOM,0
+cn1aA0,Control,1 uM-C,A,ABM,0
+cn1bA0,Control,1 uM-C,B,ABM,0
+cn1cA0,Control,1 uM-C,C,ABM,0
+cn1dA0,Control,1 uM-C,D,ABM,0
+cn1eA0,Control,1 uM-C,E,ABM,0
+cn4aN0,Control,4 uM-C,A,2 mM-C NOM,0
+cn4bN0,Control,4 uM-C,B,2 mM-C NOM,0
+cn4cN0,Control,4 uM-C,C,2 mM-C NOM,0
+cn4dN0,Control,4 uM-C,D,2 mM-C NOM,0
+cn4bA0,Control,4 uM-C,B,ABM,0
+cn4cA0,Control,4 uM-C,C,ABM,0
+cn4dA0,Control,4 uM-C,D,ABM,0
+cn4eA0,Control,4 uM-C,E,ABM,0
+cn1aN1,Control,1 uM-C,A,2 mM-C NOM,1
+cn1bN1,Control,1 uM-C,B,2 mM-C NOM,1
+cn1cN1,Control,1 uM-C,C,2 mM-C NOM,1
+cn1dN1,Control,1 uM-C,D,2 mM-C NOM,1
+cn1eN1,Control,1 uM-C,E,2 mM-C NOM,1
+cn1aA1,Control,1 uM-C,A,ABM,1
+cn1bA1,Control,1 uM-C,B,ABM,1
+cn1cA1,Control,1 uM-C,C,ABM,1
+cn1dA1,Control,1 uM-C,D,ABM,1
+cn1eA1,Control,1 uM-C,E,ABM,1
+cn4aN1,Control,4 uM-C,A,2 mM-C NOM,1
+cn4bN1,Control,4 uM-C,B,2 mM-C NOM,1
+cn4cN1,Control,4 uM-C,C,2 mM-C NOM,1
+cn4dN1,Control,4 uM-C,D,2 mM-C NOM,1
+cn4eN1,Control,4 uM-C,E,2 mM-C NOM,1
+cn4aA1,Control,4 uM-C,A,ABM,1
+cn4bA1,Control,4 uM-C,B,ABM,1
+cn4cA1,Control,4 uM-C,C,ABM,1
+cn4dA1,Control,4 uM-C,D,ABM,1
+cn4eA1,Control,4 uM-C,E,ABM,1
+cn1aN2,Control,1 uM-C,A,2 mM-C NOM,2
+cn1bN2,Control,1 uM-C,B,2 mM-C NOM,2
+cn1cN2,Control,1 uM-C,C,2 mM-C NOM,2
+cn1dN2,Control,1 uM-C,D,2 mM-C NOM,2
+cn1eN2,Control,1 uM-C,E,2 mM-C NOM,2
+cn1aA2,Control,1 uM-C,A,ABM,2
+cn1bA2,Control,1 uM-C,B,ABM,2
+cn1cA2,Control,1 uM-C,C,ABM,2
+cn1dA2,Control,1 uM-C,D,ABM,2
+cn1eA2,Control,1 uM-C,E,ABM,2
+cn4aN2,Control,4 uM-C,A,2 mM-C NOM,2
+cn4bN2,Control,4 uM-C,B,2 mM-C NOM,2
+cn4cN2,Control,4 uM-C,C,2 mM-C NOM,2
+cn4aA2,Control,4 uM-C,A,ABM,2
+cn4bA2,Control,4 uM-C,B,ABM,2
+cn4cA2,Control,4 uM-C,C,ABM,2
+cn4dA2,Control,4 uM-C,D,ABM,2
+cn1aN4,Control,1 uM-C,A,2 mM-C NOM,4
+cn1bN4,Control,1 uM-C,B,2 mM-C NOM,4
+cn1cN4,Control,1 uM-C,C,2 mM-C NOM,4
+cn1dN4,Control,1 uM-C,D,2 mM-C NOM,4
+cn1eN4,Control,1 uM-C,E,2 mM-C NOM,4
+cn1aA4,Control,1 uM-C,A,ABM,4
+cn1bA4,Control,1 uM-C,B,ABM,4
+cn1cA4,Control,1 uM-C,C,ABM,4
+cn1dA4,Control,1 uM-C,D,ABM,4
+cn1eA4,Control,1 uM-C,E,ABM,4
+cn4aN4,Control,4 uM-C,A,2 mM-C NOM,4
+cn4bN4,Control,4 uM-C,B,2 mM-C NOM,4
+cn4cN4,Control,4 uM-C,C,2 mM-C NOM,4
+cn4dN4,Control,4 uM-C,D,2 mM-C NOM,4
+cn4eN4,Control,4 uM-C,E,2 mM-C NOM,4
+cn4aA4,Control,4 uM-C,A,ABM,4
+cn4bA4,Control,4 uM-C,B,ABM,4
+cn4cA4,Control,4 uM-C,C,ABM,4
+cn4dA4,Control,4 uM-C,D,ABM,4
+cn4eA4,Control,4 uM-C,E,ABM,4
+cn1aN7,Control,1 uM-C,A,2 mM-C NOM,7
+cn1bN7,Control,1 uM-C,B,2 mM-C NOM,7
+cn1cN7,Control,1 uM-C,C,2 mM-C NOM,7
+cn1dN7,Control,1 uM-C,D,2 mM-C NOM,7
+cn1eN7,Control,1 uM-C,E,2 mM-C NOM,7
+cn1aA7,Control,1 uM-C,A,ABM,7
+cn1bA7,Control,1 uM-C,B,ABM,7
+cn1cA7,Control,1 uM-C,C,ABM,7
+cn1dA7,Control,1 uM-C,D,ABM,7
+cn1eA7,Control,1 uM-C,E,ABM,7
+cn4aN7,Control,4 uM-C,A,2 mM-C NOM,7
+cn4bN7,Control,4 uM-C,B,2 mM-C NOM,7
+cn4cN7,Control,4 uM-C,C,2 mM-C NOM,7
+cn4dN7,Control,4 uM-C,D,2 mM-C NOM,7
+cn4eN7,Control,4 uM-C,E,2 mM-C NOM,7
+cn4aA7,Control,4 uM-C,A,ABM,7
+cn4bA7,Control,4 uM-C,B,ABM,7
+cn4cA7,Control,4 uM-C,C,ABM,7
+cn4eA7,Control,4 uM-C,E,ABM,7
+cn1aN10,Control,1 uM-C,A,2 mM-C NOM,10
+cn1bN10,Control,1 uM-C,B,2 mM-C NOM,10
+cn1cN10,Control,1 uM-C,C,2 mM-C NOM,10
+cn1dN10,Control,1 uM-C,D,2 mM-C NOM,10
+cn1eN10,Control,1 uM-C,E,2 mM-C NOM,10
+cn1aA10,Control,1 uM-C,A,ABM,10
+cn1bA10,Control,1 uM-C,B,ABM,10
+cn1cA10,Control,1 uM-C,C,ABM,10
+cn1dA10,Control,1 uM-C,D,ABM,10
+cn1eA10,Control,1 uM-C,E,ABM,10
+cn4aN10,Control,4 uM-C,A,2 mM-C NOM,10
+cn4bN10,Control,4 uM-C,B,2 mM-C NOM,10
+cn4cN10,Control,4 uM-C,C,2 mM-C NOM,10
+cn4dN10,Control,4 uM-C,D,2 mM-C NOM,10
+cn4eN10,Control,4 uM-C,E,2 mM-C NOM,10
+cn4aA10,Control,4 uM-C,A,ABM,10
+cn4bA10,Control,4 uM-C,B,ABM,10
+cn4cA10,Control,4 uM-C,C,ABM,10
+cn4dA10,Control,4 uM-C,D,ABM,10
+cn4eA10,Control,4 uM-C,E,ABM,10
+cn1aN14,Control,1 uM-C,A,2 mM-C NOM,14
+cn1bN14,Control,1 uM-C,B,2 mM-C NOM,14
+cn1cN14,Control,1 uM-C,C,2 mM-C NOM,14
+cn1dN14,Control,1 uM-C,D,2 mM-C NOM,14
+cn1eN14,Control,1 uM-C,E,2 mM-C NOM,14
+cn1aA14,Control,1 uM-C,A,ABM,14
+cn1bA14,Control,1 uM-C,B,ABM,14
+cn1dA14,Control,1 uM-C,D,ABM,14
+cn1eA14,Control,1 uM-C,E,ABM,14
+cn4aN14,Control,4 uM-C,A,2 mM-C NOM,14
+cn4bN14,Control,4 uM-C,B,2 mM-C NOM,14
+cn4cN14,Control,4 uM-C,C,2 mM-C NOM,14
+cn4eN14,Control,4 uM-C,E,2 mM-C NOM,14
+cn4aA14,Control,4 uM-C,A,ABM,14
+cn4bA14,Control,4 uM-C,B,ABM,14
+cn4cA14,Control,4 uM-C,C,ABM,14
+cn4dA14,Control,4 uM-C,D,ABM,14
+cn4eA14,Control,4 uM-C,E,ABM,14
